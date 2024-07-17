@@ -1,4 +1,4 @@
-Hi there, i'm Yash Chaudhary 👋
+Hi there, I'm Yash Chaudhary 👋
 
 <!--
 **Yash3561/Yash3561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +36,3 @@ Here are some ideas to get you started:
 
 Let's connect, innovate, and make the digital world a smarter, more exciting place together! 🚀✨ #CodeLife #MachineLearning #DataScience #GitHub
 
-Feel free to customize this bio to match your own personal style and experiences.
